@@ -1,0 +1,23 @@
+To improve this technical documentation, I propose the following pull request:
+
+    Add Clarification on Key Press Events:
+        Provide additional explanation regarding how different operating systems handle key press events, specifically focusing on Windows, OS X, and GNU/Linux.
+        Clarify the distinction between physical keyboards and virtual keyboards (e.g., touch screens).
+
+    Enhance ARP Process Explanation:
+        Expand on the ARP process to include more details about how ARP requests are broadcasted and how ARP replies are handled in different network environments (e.g., directly connected, hub, switch).
+
+    Improve Socket Opening Explanation:
+        Provide more context on the significance of TCP segments and how they are handled at each layer of the OSI model.
+        Clarify the role of source and destination ports in socket communication.
+
+    Update Protocol Default Ports Information:
+        Mention that while HTTP defaults to port 80 and HTTPS to port 443, these ports can be overridden in the URL or specified explicitly.
+
+    Include Reference Links:
+        Add relevant hyperlinks to external sources for further reading on topics like ARP, OSI model, TCP/IP, etc.
+
+    Grammar and Clarity Improvements:
+        Review the text for grammatical errors, awkward phrasing, or unclear explanations and make necessary corrections for better readability.
+
+This pull request aims to enhance the clarity and completeness of the technical documentation, providing readers with a more thorough understanding of the topics covered.
